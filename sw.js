@@ -2,7 +2,7 @@ var cacheName = 'cache';
 var filesToCache = [
   'https://qpkendra.com/',
   'https://qpkendra.com/index.html',
-  'https://qp-kendra.github.io/qp-kendra/fo.css',
+  'https://qpkendra.com/qp-kendra/fo.css',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.0/css/ionicons.min.css',
   'https://fonts.googleapis.com/css?family=Google+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700',
@@ -13,11 +13,11 @@ var filesToCache = [
   'https://1.bp.blogspot.com/-uhKBRDhpGRw/X0i4QJUDRXI/AAAAAAAAAHI/NfffJZtcVqMld5o8Z4eSsGIZMRdSyVjBQCLcBGAsYHQ/favicon.png',
   'https://1.bp.blogspot.com/-t0yhya0oGio/X0UyQHWZ0XI/AAAAAAAAAG4/IHfVnKuyMckPci4AqMbgKGtVWbMJfSVxwCLcBGAsYHQ/logo.png',
   'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js',
-  'https://qp-kendra.github.io/qp-kendra/init.js',
-  'https://qp-kendra.github.io/qp-kendra/mfm.css',
+  'https://qpkendra.com/qp-kendra/init.js',
+  'https://qpkendra.com/qp-kendra/mfm.css',
   'https://fonts.googleapis.com/icon?family=Material+Icons',
-  'https://qp-kendra.github.io/qp-kendra/fo.js',
-  'https://qp-kendra.github.io/qp-kendra/manifest.json',
+  'https://qpkendra.com/qp-kendra/fo.js',
+  'https://qpkendra.com/qp-kendra/manifest.json',
 ];
 
 /* Start the service worker and cache all of the app's content */
