@@ -80,6 +80,8 @@ $(document).ready(function(){
 
   var url = "/";
 
+
+  tybcomplaystore
   
 
     $("#maintype").change(function(){
@@ -89,6 +91,8 @@ $(document).ready(function(){
     if (value === "Officalsite")  {window.location.href = "https://mu.ac.in/";}
 
     if (value === "playstore")  {window.location.href = "http://bit.do/mu-qp";}
+
+    if (value === "tybcomplaystore")  {window.location.href = "https://play.google.com/store/apps/details?id=com.qpkendra.mutybcom";}
     
     if (value === "bcommsyllabus")  {window.location.href = "./BCOMM-syllabus.html";}
 
