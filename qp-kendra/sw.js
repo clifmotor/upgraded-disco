@@ -14,7 +14,7 @@ var filesToCache = [
   'https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js',
   'https://fonts.googleapis.com/icon?family=Material+Icons',
   'https://qpkendra.com/qp-kendra/fo.js',
-  'https://qpkendra.com/qp-kendra/manifest.json',
+  '/manifest.json',
 ];
 
 /* Start the service worker and cache all of the app's content */
