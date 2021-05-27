@@ -1,6 +1,7 @@
 var cacheName = 'cache';
 var filesToCache = [
   '/',
+  'https://qpkendra.com/',
   'https://qpkendra.com/index.html',
   'https://qpkendra.com/fo.css',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
